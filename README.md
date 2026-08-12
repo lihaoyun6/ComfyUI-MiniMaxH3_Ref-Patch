@@ -1,5 +1,5 @@
 # ComfyUI-TomatoCrypt  
-Inject differential values from ref2v into MiniMax-H3 fl2v weight  
+Inject differential values from ref2va into MiniMax-H3 fl2va weight  
 
 ## Preview
 ![](./preview.png)
